@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E8A73913-C003-45DD-87E9-B36BB4680924</string>
+	<key>IDESourceControlProjectName</key>
+	<string>silence</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>61AF7BDA-C41E-4C84-94A2-94A9830F6C0D</key>
+		<string>https://github.com/hemisphere-code/silence.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>silence.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>61AF7BDA-C41E-4C84-94A2-94A9830F6C0D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hemisphere-code/silence.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>61AF7BDA-C41E-4C84-94A2-94A9830F6C0D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>61AF7BDA-C41E-4C84-94A2-94A9830F6C0D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>silence</string>
+		</dict>
+	</array>
+</dict>
+</plist>
